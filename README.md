@@ -13,7 +13,7 @@ spawner. That in my opinion is cheating and breaks game mechanics.
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2015 Fred R. Cook <a.o.d.6060@gmail.com>
+Copyright (c) 2015 Fred Cook <a.o.d.6060@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
